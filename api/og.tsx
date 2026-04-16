@@ -4,7 +4,7 @@ export const config = { runtime: 'edge' };
 
 const SECTION_MAP = [
   { key: 'energy', label: 'Energy', icon: '⚡', qCount: 4 },
-  { key: 'attention', label: 'Attention', icon: '◎', qCount: 3 },
+  { key: 'attention', label: 'Attention', icon: '🎯', qCount: 3 },
   { key: 'time', label: 'Time', icon: '◷', qCount: 3 },
 ];
 
